@@ -66,11 +66,4 @@ public class Sessao {
          this.setFilme(filme);
          this.sala = sala;
      }
-
-	@Override
-	public String toString() {
-		return "Sessao [id=" + id + ", horario=" + horario + ", sala=" + sala + ", filme=" + filme + "]";
-	}	
-     
-     
 }

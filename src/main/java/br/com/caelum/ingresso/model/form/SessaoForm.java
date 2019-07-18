@@ -58,12 +58,4 @@ public class SessaoForm {
 		return sessao;
 		
 	}
-
-	@Override
-	public String toString() {
-		return "SessaoForm [salaId=" + salaId + ", horario=" + horario + ", filmeId=" + filmeId + "]";
-	}
-	
-	
-
 }
